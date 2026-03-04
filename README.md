@@ -141,7 +141,7 @@
 
 <section id="contact">
     <h2>Contact Me</h2>
-    <p>Email: yourname@email.com</p>
+    <p>Email: avewaynesh@email.com</p>
     <p>GitHub: github.com/wayne72103</p>
 </section>
 
